@@ -12,7 +12,7 @@ Expected file location:
 data/raw/healthcare_dataset.csv
 
 Recommended dataset link:  
-[Heart Disease UCI Dataset](https://www.kaggle.com/datasets/uciml/heart-disease-uci)
+[Heart Disease UCI Dataset](https://www.kaggle.com/datasets/toupasana/heart-disease-data-set)
 
 ## Models
 - Logistic Regression
