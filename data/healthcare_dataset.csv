@@ -1,0 +1,23 @@
+
+Recommended dataset link:  
+[Heart Disease UCI Dataset](https://www.kaggle.com/datasets/uciml/heart-disease-uci)
+
+## Models
+- Logistic Regression
+- Random Forest
+- Support Vector Machine
+
+## Technologies
+- Python
+- Scikit-learn
+- Pandas
+- NumPy
+
+---
+
+## How to Run
+
+1. **Install dependencies**:
+
+```bash
+pip install -r requirements.txt
